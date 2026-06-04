@@ -1,8 +1,10 @@
 
-  # One-Page Portfolio Website
+  # Portfolio Website <> Sharat Iftekharul Islam
+ 
+Product Manager | Technical Documentation | User Research
 
-  This is a code bundle for One-Page Portfolio Website. The original project is available at https://www.figma.com/design/d9QGOD4RnQIP8mw7hacbyo/One-Page-Portfolio-Website.
-
+Product Manager with expertise in SaaS and EdTech, specializing in Product Development Documentation, API Documentation, User Research, Agile Product Development, and Data Analytics. Bridging the gap between technical complexity and user clarity through data-driven insights.
+ 
   ## Running the code
 
   Run `npm i` to install the dependencies.
