@@ -4,29 +4,35 @@ export default function App() {
   const documentationSamples = [
     {
       title: "Product Requirement Document (PRD)",
-      description: "Comprehensive product specifications, user stories, and acceptance criteria for new features",
+      description:
+        "Comprehensive product specifications, user stories, and acceptance criteria for new features",
       icon: FileText,
       tags: ["Product Management", "Requirements"],
-      link: "https://drive.google.com/drive/folders/1_3pZBXnR_SS4XUEf9lO8yKBToD33IhS4?usp=sharing"
+      link: "https://drive.google.com/drive/folders/1_3pZBXnR_SS4XUEf9lO8yKBToD33IhS4?usp=sharing",
     },
     {
       title: "API Documentation",
-      description: "Complete API reference with endpoints, authentication, request/response examples",
+      description:
+        "API reference with endpoints, authentication, request/response examples",
       icon: Code,
-      tags: ["Technical Writing", "API"]
+      tags: ["Technical Writing", "API"],
+      link: "https://github.com/iftekhar-4952/Warehouse-Robot-Management-API",
     },
     {
-      title: "UI/UX Prototype",
-      description: "Concept validation, User research ",
+      title: "UI/UX Prototypes",
+      description:
+        "Concept validation, User research, Developer reference ",
       icon: BookOpen,
-      tags: ["Documentation", "User-facing"]
+      tags: ["Documentation", "User-facing artefacts"],
+      link: "https://www.figma.com/design/xoJgxyz1hOeDbpAM852UbR/UI-UX-Portfolio?m=auto&t=cs6LLXs59rf9h0Rq-6",
     },
     {
-      title: "Data Analytics",
-      description: "Concept validation, User research ",
+      title: "Wireframes",
+      description:
+        "Early stage product discovery, Product planning",
       icon: BookOpen,
-      tags: ["Documentation", "User-facing"],
-      link: "https://drive.google.com/drive/folders/1XCoMs8nSUJH0aD9JD3Ne_Z9SsDHTtGEJ?usp=sharing"
+      tags: ["Brainstorming", "Internal use team-artefacts"],
+      link: "https://whimsical.com/iftekharul-islam-s-workspace/porfolio-projects-WgW1vPDUTe9au9nisF4a9b",
     }
   ];
 
